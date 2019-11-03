@@ -1,0 +1,304 @@
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+C:\Users\abdelalim\Desktop\GSTOCK_MAJs\Maj1\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK\Maj2\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj3\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK\Maj4\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GStock.Authentification.resources
+C:\Users\abdelalim\Desktop\GSTOCK\GSTOCK_Evolution\Maj5\GSTOCK\GSTOCK\obj\x86\Debug\GStock.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj6\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj7\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj8\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GStock.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj9\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles_au_debut_mois.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Fournisseurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Beneficiaires.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_decharges.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj10\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_des_achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Beneficiaires.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Fournisseurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_decharges.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_des_achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj11\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Beneficiaires.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Fournisseurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_decharges.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_des_achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Bilan.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj12\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Impression.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Bilan.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Beneficiaires.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Fournisseurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_decharges.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_des_achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Maj13\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Impression.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe.config
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\bin\Debug\GSTOCK.exe
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\bin\Debug\GSTOCK.pdb
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csprojResolveAssemblyReference.cache
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Bilan.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Impression.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Articles.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Beneficiaires.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Authentification.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Etat_du_stock.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Ajouter_liste_articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_Articles_exportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Exportations.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.consultation_liste_importes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Les_Achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.AjoutListeArticlesImportes.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Gestion_Utilisateurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Fournisseurs.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_decharges.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Liste_des_achats.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Menu.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.Properties.Resources.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.STOCK.resources
+E:\Mes études\OFPPT_SYBA\ISTA_2A\ISTA_S4\Stage\GSTOCK\Projet de stage\GSTOCK_v2\GSTOCK\GSTOCK_Evolutions\Released\Maj14\GSTOCK\GSTOCK\obj\x86\Debug\GSTOCK.csproj.GenerateResource.Cache

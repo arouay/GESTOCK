@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21CD15C5-F7D7-4944-A412-A29D0454BBD4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GSTOCK</RootNamespace>
+    <AssemblyName>GSTOCK</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=14.0.0.10, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilan_Impression\Bilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilan_Impression\Bilan.Designer.cs">
+      <DependentUpon>Bilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Bilan_Impression\Impression.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilan_Impression\Impression.Designer.cs">
+      <DependentUpon>Impression.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Les ajouts\Articles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Les ajouts\Articles.Designer.cs">
+      <DependentUpon>Articles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Les ajouts\Beneficiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Les ajouts\Beneficiaires.Designer.cs">
+      <DependentUpon>Beneficiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_utilisateurs\Authentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_utilisateurs\Authentification.designer.cs">
+      <DependentUpon>Authentification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_export\Ajouter liste articles exportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_export\Ajouter liste articles exportes.Designer.cs">
+      <DependentUpon>Ajouter liste articles exportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_export\consultation Articles exportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_export\consultation Articles exportes.Designer.cs">
+      <DependentUpon>consultation Articles exportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_import\consultation liste importes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_import\consultation liste importes.Designer.cs">
+      <DependentUpon>consultation liste importes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bilan_etatStock\Etat du stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilan_etatStock\Etat du stock.Designer.cs">
+      <DependentUpon>Etat du stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_export\Exportations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_export\Exportations.Designer.cs">
+      <DependentUpon>Exportations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_import\Les Achats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_import\Les Achats.Designer.cs">
+      <DependentUpon>Les Achats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_import\ListeArticlesImportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_import\ListeArticlesImportes.Designer.cs">
+      <DependentUpon>ListeArticlesImportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_utilisateurs\Gestion Utilisateurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_utilisateurs\Gestion Utilisateurs.designer.cs">
+      <DependentUpon>Gestion Utilisateurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Les ajouts\Fournisseurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Les ajouts\Fournisseurs.Designer.cs">
+      <DependentUpon>Fournisseurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_export\Liste decharges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_export\Liste decharges.Designer.cs">
+      <DependentUpon>Liste decharges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms_import\Liste des achats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms_import\Liste des achats.Designer.cs">
+      <DependentUpon>Liste des achats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Les menus\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Les menus\Menu.designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mes_Tables.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Mes_Tables.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Les menus\STOCK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Les menus\STOCK.Designer.cs">
+      <DependentUpon>STOCK.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bilan_Impression\Bilan.resx">
+      <DependentUpon>Bilan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilan_Impression\Impression.resx">
+      <DependentUpon>Impression.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Les ajouts\Articles.resx">
+      <DependentUpon>Articles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Les ajouts\Beneficiaires.resx">
+      <DependentUpon>Beneficiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_utilisateurs\Authentification.resx">
+      <DependentUpon>Authentification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bilan_etatStock\Etat du stock.resx">
+      <DependentUpon>Etat du stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_export\Ajouter liste articles exportes.resx">
+      <DependentUpon>Ajouter liste articles exportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_export\consultation Articles exportes.resx">
+      <DependentUpon>consultation Articles exportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_export\Exportations.resx">
+      <DependentUpon>Exportations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_import\consultation liste importes.resx">
+      <DependentUpon>consultation liste importes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_import\Les Achats.resx">
+      <DependentUpon>Les Achats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_import\ListeArticlesImportes.resx">
+      <DependentUpon>ListeArticlesImportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_utilisateurs\Gestion Utilisateurs.resx">
+      <DependentUpon>Gestion Utilisateurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Les ajouts\Fournisseurs.resx">
+      <DependentUpon>Fournisseurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_export\Liste decharges.resx">
+      <DependentUpon>Liste decharges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms_import\Liste des achats.resx">
+      <DependentUpon>Liste des achats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Les menus\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Les menus\STOCK.resx">
+      <DependentUpon>STOCK.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Mes_Tables.xsc">
+      <DependentUpon>Mes_Tables.xsd</DependentUpon>
+    </None>
+    <None Include="Mes_Tables.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Mes_Tables.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Mes_Tables.xss">
+      <DependentUpon>Mes_Tables.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
